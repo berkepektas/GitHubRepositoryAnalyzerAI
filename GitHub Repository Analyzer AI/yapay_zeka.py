@@ -25,7 +25,7 @@ def resource_path(relative_path):
     return os.path.join(base_path, relative_path)
 
 # --- CONFIG / AYARLAR ---
-GITHUB_TOKEN = "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"
+GITHUB_TOKEN = ""
 MODEL_FILE = resource_path("saved_svm_model.pkl")
 VECTORIZER_FILE = resource_path("saved_vectorizer.pkl")
 
