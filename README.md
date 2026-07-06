@@ -150,3 +150,5 @@ alanlarını bir araya getiren akademik bir çalışmadır.
 # 📄 Lisans
 
 Bu proje eğitim ve akademik çalışmalar kapsamında geliştirilmiştir.
+
+Kullanabilmek için github token nınızı yapayzeka.py dosyasında GİTHUB_TOKEN="" olan alana yapıştırınız aksi halde çalışmayacaktır
